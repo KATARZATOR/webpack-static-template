@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
   })
   brandsList.classList.add('limited-view')
 })
-//для свайпера
+//для свайпера  ---
 const swiper = new Swiper('.mySwiper', {
   breakpoints: {
     220: {
